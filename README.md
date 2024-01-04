@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Basit Akhter👋<a href="https://hammad-air.github.io/hammad/"></h1>
+    <h1> Hi there, I'm Basit Akhter👋<a href="https://basittech.vercel.app/"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/Basitakhter"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -9,29 +9,29 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 Founder & CEO of My Dreams 🤖
 	
-👨‍💻 Lead NLP Developer at HandyHelps
+👨‍💻 Learning NLP Developer at SMIT
 
-🔥 NLP & VUI Consultant and Web Developer 
+🔥 Working As digital marking  
 	
 💰 RISING TALENT at UPWORK ✅
 
 💸 LEVEL-01 SELLER of DIALOGFLOW on Fiverr
 	
-📢 Core Team Member of GOOGLE DEVELOPERS STUDENT CLUB  2022-23 | SMI UNIVERSITY
+📢 Core Team Member of CREATE NEON AS SEO Manager  2021- Uptodate
 
-✨ Favorite Tech: Dialogflow, React, Typescript, Rasa 2.O
+✨ Favorite Tech: Data Analytics, Digital Marketing, Programming and Coding
 
-📓 I’m currently learning LLM's and Genrative AI... 😭
+📓 I’m currently learning Coding's and Genrative AI... 😭
 
-📧 hammadn788@gmail.com
+📧 basit.akhter786@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://basittech.vercel.app/
 
-💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
+💼 LinkedIn: https://www.linkedin.com/in/basit-akhter-9207b9bb/
 
-📷 Instagram : https://www.instagram.com/hammad2980/
+📷 Instagram : https://www.instagram.com/thebasitakhter/
  
 <h2>Tech Stack</h2>
 
