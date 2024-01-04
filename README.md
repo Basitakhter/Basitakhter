@@ -17,7 +17,7 @@
 	
 💰 RISING TALENT at UPWORK ✅
 
-💸 LEVEL-01 SELLER of DIALOGFLOW on Fiverr
+💸 LEVEL-01 SELLER of SEO And Amazon & ebay Lister on Fiverr
 	
 📢 Core Team Member of CREATE NEON AS SEO Manager  2021- Uptodate
 
